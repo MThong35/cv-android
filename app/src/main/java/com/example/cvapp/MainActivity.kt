@@ -1,4 +1,4 @@
-package com.example.cv
+package com.example.cvapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
